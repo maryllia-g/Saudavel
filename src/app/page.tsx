@@ -5,7 +5,7 @@
     return (
       <div className="flex flex-col min-h-screen bg-[#0d1f12] font-sans">
         {/* Hero Section */}
-        <div className="relative w-full overflow-hidden">
+        <div className="relative w-full overflow-hidden min-h-[520px] md:min-h-[620px]">
           {/* Background gradient */}
           <div className="absolute inset-0 bg-gradient-to-br from-[#0d1f12] via-[#143820] to-[#1f5c33]" />
 
@@ -201,7 +201,7 @@
             <div className="border-t border-white/10 mt-10 pt-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
               <div className="flex flex-col gap-2">
                 <h4 className="text-green-400 font-semibold text-sm">Contato</h4>
-                <span className="text-white/50 text-sm">contato.3g@email.com</span>
+                <span className="text-white/50 text-sm">contato.3s@email.com</span>
                 <span className="text-white/50 text-sm">(88) 98400-3908</span>
               </div>
 
@@ -233,7 +233,7 @@
                 <br className="md:hidden" /> Cada alimento transforma.
               </p>
               <p className="text-white/40 text-sm">
-                © 2025 3G Conecta. Todos os direitos reservados.
+                © 2026 3S Conecta. Todos os direitos reservados.
               </p>
             </div>
           </div>
